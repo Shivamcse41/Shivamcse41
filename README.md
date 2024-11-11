@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Shivamcse41
 - 👀 I’m interested in ...Coding 
 - 🌱 I’m currently learning in ....College 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... i am a shy boy
 
 <!---
